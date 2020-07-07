@@ -1,0 +1,8 @@
+*590634837|Nilesh Joshi|Acharya College Road|Bangalore|560090|Karnataka|Male|1998-11-19|9108387634|nileshjoshi800@gmail.com|2020-05-27|Special#\n
+*590665968|Akshay Kaushik|Yeswanthpur|Bangalore|560000|Karnataka|Male|2002-05-10|1234567890|akshay@gmail.com|2020-05-05|Monthly#\n
+*590718047|Sandy|RR Nagar|Bangalore|55555|Karnataka|Male|1998-05-05|6969696969|sandy@gmail.com|2020-05-01|Yearly#
+1590722078|Nilesh Joshi|Acharya College Road|Bangalore|560090|Karnataka|Male|1998-11-19|9108387634|nilesh@gmail.com|2020-05-20|Yearly#\n
+*590722119|Ajay S|abcd|Bangalore|1234|Karnataka|Male|1999-05-05|123|abc@abc.com|2020-05-28|Special#
+*590744700|Ajay S|Dasarhalli|Bangalore|560020|Karnataka|Male|1999-05-05|1234567890|ajay@gmail.com|2020-05-12|Yearly#\n
+*591367090|Anoop|abc|abc|1234|adsad|Female|2004-06-08|213213|sdA@asd.com|2020-06-15|Special#
+*593497068|test|test|test|122|test|Male|2020-06-09|213|asd@aas.com|2020-06-30|Special#
